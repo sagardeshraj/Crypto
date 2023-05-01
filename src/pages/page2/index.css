@@ -125,9 +125,9 @@
   top: -20px;
   border-radius: 50%;
 }
-.main_card2 img {
+/* .main_card2 img {
  filter: blur(1px);
-}
+} */
 
 .main_card2 .outer_circle2 {
   position: absolute;

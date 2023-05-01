@@ -44,7 +44,7 @@ function Page2() {
         <div className="main_card2">
           <div className="outer_circle2">
             <div className="inner_circle2">
-              <img src={initialData.imgURL} alt="" />
+              <img src={initialData.imgURL} alt="" style={{filter:"blur(2px)"}} />
             </div>
           </div>
 
