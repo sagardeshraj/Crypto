@@ -50,6 +50,7 @@ function Page1() {
 
       <div className="main_card">
         <div className="outer_circle">
+          
           <div className="inner_circle">
             <img src={initialData.imgURL} alt="" />
           </div>
@@ -94,7 +95,7 @@ function Page1() {
                   background: "transparent",
                   marginTop: "5px",
                   marginLeft: "40px",
-                borderRadius:"50%"
+                  borderRadius:"50%"
 
                 }}
               />
